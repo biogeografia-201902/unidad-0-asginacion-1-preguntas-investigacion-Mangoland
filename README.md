@@ -9,3 +9,4 @@ Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s deb
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
+Comparación comunidad hormigas entre polígonos con sustrato/suelo de predominancia de pasto/hierbas y predominancia de concreto/pavimento.
